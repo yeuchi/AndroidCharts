@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidChartEx</string>
+    <string name="btn_line_chart">Line Chart</string>
+    <string name="btn_bar_chart">Bar Chart</string>
+</resources>
