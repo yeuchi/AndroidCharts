@@ -15,5 +15,5 @@ https://github.com/yeuchi/LinearRegression
 
 # References
 
-1. MPAndroidChart Documentation by Philipp Jahoda ©2020 weeklycoding.com
+1. MPAndroidChart Documentation by Philipp Jahoda ©2020 weeklycoding.com \
 https://weeklycoding.com/mpandroidchart-documentation/getting-started/
