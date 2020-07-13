@@ -1,13 +1,16 @@
 # AndroidCharts
 Motivation of this repository is to exercise MPAndroidCharts by Philipp Jahoda.
 
-### Line, Bar Charts
+### Line, Bar, Pie Charts 
+The most basic bare bone implementation.
 
 <img width="440" alt="Screen Shot 2020-07-12 at 5 40 57 PM" src="https://user-images.githubusercontent.com/1282659/87258201-6990e300-c467-11ea-9fcf-53b57609635a.png">
 
 <img width="440" alt="Screen Shot 2020-07-12 at 5 40 42 PM" src="https://user-images.githubusercontent.com/1282659/87258199-685fb600-c467-11ea-9136-e0915fe96334.png">
 
 <img width="440" alt="Screen Shot 2020-07-12 at 5 41 09 PM" src="https://user-images.githubusercontent.com/1282659/87258202-6a297980-c467-11ea-817d-c2afe49ab921.png">
+
+<img width="710" alt="Screen Shot 2020-07-12 at 7 00 35 PM" src="https://user-images.githubusercontent.com/1282659/87260492-d6ac7480-c477-11ea-8766-82790c9fc6fe.png">
 
 ### Related : Linear Regression Chart
 A previous related Linear regression computation and chart was developed for Logic PD, 2019.
