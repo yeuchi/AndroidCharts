@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import com.ctyeung.androidchartex.databinding.ActivityPieChartBinding
+import com.github.mikephil.charting.animation.Easing
 import com.github.mikephil.charting.charts.PieChart
 import com.github.mikephil.charting.data.Entry
 import com.github.mikephil.charting.data.PieData
@@ -47,6 +48,8 @@ class PieChartActivity : AppCompatActivity(), OnChartValueSelectedListener {
         dataSet.setSelectionShift(5f)
 
         var data:PieData = PieData(dataSet)
+
+        chart.animateY(1400, Easing.EaseInOutQuad)
         chart.data = data
     }
 
