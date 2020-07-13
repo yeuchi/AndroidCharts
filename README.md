@@ -16,6 +16,9 @@ The most basic bare bone implementation.
 A previous related Linear regression computation and chart was developed for Logic PD, 2019.
 https://github.com/yeuchi/LinearRegression
 
+<img width="440" alt="Screen Shot 2020-07-12 at 7 50 52 PM" src="https://user-images.githubusercontent.com/1282659/87260769-09a33800-c479-11ea-8090-5a6102e6a04c.png">
+
+
 # References
 
 1. MPAndroidChart Documentation by Philipp Jahoda ©2020 weeklycoding.com \
