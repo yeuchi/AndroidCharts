@@ -4,25 +4,25 @@
     xmlns:tools="http://schemas.android.com/tools">
     <data>
         <variable name="layout"
-            type="com.ctyeung.androidchartex.LineChartActivity"/>
+            type="com.ctyeung.androidchartex.RadarChartActivity"/>
     </data>
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        tools:context=".LineChartActivity">
+        tools:context=".RadarChartActivity">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/btn_pie_chart"
+            android:text="@string/btn_radar_chart"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
-        <com.github.mikephil.charting.charts.LineChart
+        <com.github.mikephil.charting.charts.RadarChart
             android:id="@+id/chart"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>

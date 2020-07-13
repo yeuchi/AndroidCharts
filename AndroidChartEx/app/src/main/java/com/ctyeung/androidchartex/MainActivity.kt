@@ -35,6 +35,10 @@ class MainActivity : AppCompatActivity()  {
         navigateTo(PieChartActivity::class.java)
     }
 
+    fun onClickRadarChart() {
+        navigateTo(RadarChartActivity::class.java)
+    }
+
     fun navigateTo(classType:Class<*>) {
         val intent = Intent(this.applicationContext, classType)
         startActivity(intent)

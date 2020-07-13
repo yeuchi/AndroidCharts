@@ -14,25 +14,32 @@
     tools:context=".MainActivity">
 
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="@dimen/btn_width"
         android:layout_height="wrap_content"
         android:id="@+id/btn_line_chart"
         android:text="@string/btn_line_chart"
         android:onClick="@{()->layout.onClickLineChart()}"/>
 
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="@dimen/btn_width"
         android:layout_height="wrap_content"
         android:id="@+id/btn_bar_chart"
         android:text="@string/btn_bar_chart"
         android:onClick="@{()->layout.onClickBarChart()}"/>
 
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="@dimen/btn_width"
         android:layout_height="wrap_content"
         android:id="@+id/btn_pie_chart"
         android:text="@string/btn_pie_chart"
         android:onClick="@{()->layout.onClickPieChart()}"/>
+
+    <Button
+        android:layout_width="@dimen/btn_width"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_radar_chart"
+        android:text="@string/btn_radar_chart"
+        android:onClick="@{()->layout.onClickRadarChart()}"/>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
 </layout>
