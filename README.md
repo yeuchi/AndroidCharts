@@ -1,5 +1,6 @@
 # AndroidCharts
 Motivation of this repository is to exercise MPAndroidCharts by Philipp Jahoda.
+Later extend and / or make some custom charts.
 
 ### Line, Bar, Pie Charts 
 The most basic bare bone implementation.
