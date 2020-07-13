@@ -4,7 +4,7 @@ Motivation of this repository is to exercise MPAndroidCharts by Philipp Jahoda.
 ### Line, Bar, Pie Charts 
 The most basic bare bone implementation.
 
-<img width="440" alt="Screen Shot 2020-07-12 at 5 40 57 PM" src="https://user-images.githubusercontent.com/1282659/87258201-6990e300-c467-11ea-9fcf-53b57609635a.png">
+<img width="440" alt="Screen Shot 2020-07-12 at 7 48 52 PM" src="https://user-images.githubusercontent.com/1282659/87260702-c943ba00-c478-11ea-9cf9-bf06362b3706.png">
 
 <img width="440" alt="Screen Shot 2020-07-12 at 5 40 42 PM" src="https://user-images.githubusercontent.com/1282659/87258199-685fb600-c467-11ea-9136-e0915fe96334.png">
 
