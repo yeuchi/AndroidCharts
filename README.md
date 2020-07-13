@@ -3,7 +3,7 @@ Motivation of this repository is to exercise MPAndroidCharts by Philipp Jahoda. 
 Later extend and / or make some custom charts.
 
 ### Line, Bar, Pie , Radar Charts 
-The most basic bare bone implementations.
+The most basic bare bone implementations from documentation <sup>[1]</sup>.
 
 <img width="440" alt="Screen Shot 2020-07-12 at 8 37 44 PM" src="https://user-images.githubusercontent.com/1282659/87262483-af59a580-c47f-11ea-895d-9d1e8d1fdffe.png"> 
 
